@@ -32,5 +32,8 @@ print(c)
 
 
 #Global variable 
+global_var=100
+def func1():
+  print("hello {global_var}")
 
 
