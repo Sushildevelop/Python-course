@@ -31,4 +31,6 @@ c=a+b
 print(c)
 
 
+#Global variable 
+
 
