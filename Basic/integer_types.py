@@ -1,4 +1,4 @@
-#Integer Data types - means whole numbers - positive and negative
+#Integer Data types - positive and negative numbers but without decimal.
 # Examples of integer types in Python - 0,1,-5,100,-250
 a=10
 b=-100
