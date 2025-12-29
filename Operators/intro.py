@@ -4,13 +4,12 @@
 
 a=10 
 b=5
-print(a + b)
-print(a-b)
-print(a**b)
-print(a*b)
-print(a/b)
-print(a+2*b)
-
-
+print(a + b) #15 
+print(a-b) #5
+print(a**b) #100000
+print(a*b)  #50 
+print(a/b) #2.0
+print(a+2*b)  #20
+  
 
 

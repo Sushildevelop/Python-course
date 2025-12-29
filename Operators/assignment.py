@@ -20,14 +20,14 @@
 
 # Assigns a value to a variable
 x=5 
-print(x)
+print(x)  #5 
 
 # 2. += (Add and Assign)
 
 # Adds a value to the variable and stores the result back in the same variable.
-y=3
-y=+3  # y=y+3 
-print(y)
+y=10
+y+=3  # y=y+3
+print("Value of y ---> ",y)
 
 
 
@@ -63,7 +63,7 @@ print(b)
 # Finds remainder and updates the variable with that remainder.
 
 c=21
-c%=4   # c=c%4
+c%=4   # c=c%4  # 21/4=5 remainder=1
 print(c)
 
 # 7. //= (Floor Divide and Assign)
@@ -71,8 +71,8 @@ print(c)
 # Performs floor division (integer division) and assigns result.
 
 d = 17
-d //= 3
-print(x)
+d //= 3  # d = d // 3   # 17/3=5.66 => floor value=5
+print(d)
 
 
 # 8. **= (Exponent and Assign)

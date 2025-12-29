@@ -8,6 +8,9 @@
 #         <	            Less than	                    x < y	
 #         >=	        Greater than or equal to	    x >= y	
 #         <=	        Less than or equal to	        x <= y
+a=10 
+b=20 
+
 
 x = 5
 y = 3

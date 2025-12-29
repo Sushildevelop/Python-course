@@ -20,6 +20,6 @@ print("addition operations: ",x + y)
 print("Subtraction operations : ",x - y)
 print("multiplication operations: ",x * y)
 print("division operations: ",x / y)
-print("modulus operations: ",x % y)
-print("Exponentiation operations : ",x ** y)
-print("Floor division: ", x // y)
+print("modulus operations: ",x % y)  # remainder =3
+print("Exponentiation operations : ",x ** y)   # 15^4=50625
+print("Floor division: ", x // y)   # 3.75 => 3 floor value 
