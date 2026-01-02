@@ -1,6 +1,7 @@
 #Logical Operators 
 
 # Logical operators are used to combine conditional statements
+#Return - True or False
 
 #       Operator	Name	        Example
 #         and	    Logical AND	    x < 65 and  x < 100

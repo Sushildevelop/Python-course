@@ -1,6 +1,7 @@
 # Membership Operators
 
 # Membership operators are used to test if a sequence is presented in an object
+
 # It returns True or False
 
 #       Operator	Name	        Example

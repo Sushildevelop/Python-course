@@ -1,4 +1,5 @@
 # Comparison Operators
+
 # Comparison operators are used to compare two values then provide true or false.
 
 #       Operator	    Name	                        Example	
