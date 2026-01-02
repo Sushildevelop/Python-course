@@ -13,10 +13,10 @@ a=10
 b=20 
 
 
-x = 5
+x = 5 
 y = 3
 
-print("Equal: ", x == y)
+print("Equal: ", x == y)  
 print("Not equal : ", x != y)
 print("Greater than: ", x > y)
 print("Less than: ", x < y)

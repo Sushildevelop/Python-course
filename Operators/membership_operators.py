@@ -14,4 +14,4 @@ print("banana in x: ", "banana" in x)
 print("pineapple not in x: ", "pineapple" not in x)
 
 y = "Hello world"
-print("H in y: ", "P" in y)
+print("P in y: ", "P" in y)

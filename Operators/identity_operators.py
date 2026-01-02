@@ -15,6 +15,6 @@ y = ["apple", "banana", "cherry"]
 a=x
 
 print("a is x: ",a is x)    # Because a references the same object as x  
-print("x is y: ",x is y)
+print("x is y: ",x is y)  
 
 print("x is not y: ",x is not y)
