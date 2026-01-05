@@ -3,7 +3,7 @@
 a=10
 b=-100
 c=0
-d=20
+d=80
 print("Value of a:",a)
 print("Data type of a:",type(a))
 print("Value of b:",b)
