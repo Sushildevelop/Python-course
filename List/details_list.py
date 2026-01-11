@@ -28,3 +28,14 @@
 
 # List items are indexed, the first item has index [0], the second item has index [1] etc.
 
+
+#Ordered - When we say that lists are ordered, it means that the items have a defined order,
+# and that order will not change unless we specifically change it.
+
+
+#Changeable -  Lists are changeable, meaning that we can change, add, and remove items in a list after it has been created.
+
+
+# Allow Duplicates - Since lists are indexed, lists can have items with the same value.
+
+
